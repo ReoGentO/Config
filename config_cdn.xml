@@ -606,8 +606,8 @@
     <item Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/clans_19-40-57_10_11_2023_a4740fb3f7dfb3078312e89935e4ab63_3257294839_ios" MinVersion="2.31.5" PlatformID="1" Attach="1" Active="0" Reload="1" Size="89726590" Hash="6F3F2940B5FFEF5B42B0A8FF683B4E04" />
     <item Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/clans_20-43-36_10_11_2023_eff611caf45428e05869f2bcb4bbd8d0_158557814_android" MinVersion="2.31.5" PlatformID="2" Attach="1" Active="0" Reload="1" Size="89706968" Hash="834F8A42FCF0DF65E11CCBD4AD4C00A8" />
 	<item Name="ZONE_7_2" Url="https://github.com/BotBotHack/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="exp" Hash="exp" />
-    <item Name="CONFIGS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CONFIGS" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="62755" Hash="F86AD9CC821D62B4D9A0A2C8754DEF0B" />
-	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="5761661" Hash="525DA039BCA63B897D076CBF9AEBC0E7" />
+    <item Name="CONFIGS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CONFIGS" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="64303" Hash="5E37554812F9E6E1A702017AB5BAA1B5" />
+	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="5765361" Hash="1D1BCFA13A66D0B222235848E9FAA00A" />
     <item Name="ZONE_6" Url="https://github.com/BotBotHack/Config/raw/refs/heads/main/ZONE_6" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="25727708" Hash="DC5097FF9E050B1D051B109A2DF8755C" />
   </packs>
   <price>
@@ -1111,4 +1111,5 @@
     <item SpenderTypeID="4" RetryBtn="1" PlatformID="11" />
     <item SpenderTypeID="5" RetryBtn="1" PlatformID="11" />
   </FightSpenderType>
+
 </data>
