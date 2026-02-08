@@ -606,7 +606,7 @@
     <item Name="CLANS" Url="https://assets.nekkimobile.ru/shadowfight/unity_packs/SF2_free/clans_19-40-57_10_11_2023_a4740fb3f7dfb3078312e89935e4ab63_3257294839_ios" MinVersion="2.31.5" PlatformID="1" Attach="1" Active="0" Reload="1" Size="89726590" Hash="6F3F2940B5FFEF5B42B0A8FF683B4E04" />
     <item Name="CLANS" Url="https://github.com/BotBotHack/Config/raw/refs/heads/main/CLANS" MinVersion="2.31.5" PlatformID="2" Attach="1" Active="0" Reload="1" Size="86617112" Hash="E72B339DA1092DE7D17854E3B8130BB6" />
 	<item Name="ZONE_7_2" Url="https://github.com/BotBotHack/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="exp" Hash="exp" />
-    <item Name="CONFIGS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CONFIGS" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="62755" Hash="F86AD9CC821D62B4D9A0A2C8754DEF0B" />
+    <item Name="CONFIGS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CONFIGS" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="62795" Hash="2DCA5802905B44760BD8617A74D68E5C" />
 	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="5760869" Hash="17D8B04D8B23B8B52068D801C189D851" />
     <item Name="ZONE_6" Url="https://github.com/BotBotHack/Config/raw/refs/heads/main/ZONE_6" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="25727708" Hash="DC5097FF9E050B1D051B109A2DF8755C" />
   </packs>
@@ -1113,4 +1113,5 @@
   </FightSpenderType>
 
 </data>
+
 
