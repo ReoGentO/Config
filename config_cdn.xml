@@ -607,7 +607,7 @@
     <item Name="CLANS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CLANS" MinVersion="2.31.5" PlatformID="2" Attach="1" Active="0" Reload="1" Size="86617112" Hash="E72B339DA1092DE7D17854E3B8130BB6" />
 	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="exp" Hash="exp" />
     <item Name="CONFIGS" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/CONFIGS" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="62795" Hash="2DCA5802905B44760BD8617A74D68E5C" />
-	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="5764261" Hash="FE435ADF25D4E3989866E9C212709B90" />
+	<item Name="ZONE_7_2" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_7_2" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="5764261" Hash="3EB7DA1B2ED6CA13A3DC3986AF94575E" />
     <item Name="ZONE_6" Url="https://github.com/ReoGentO/Config/raw/refs/heads/main/ZONE_6" MinVersion="2.32.0" PlatformID="2,11" Attach="1" Active="0" Reload="1" Size="25727708" Hash="DC5097FF9E050B1D051B109A2DF8755C" />
   </packs>
   <price>
@@ -1113,6 +1113,7 @@
   </FightSpenderType>
 
 </data>
+
 
 
 
